@@ -2,7 +2,7 @@
 group project
 
 # Model selection and finetune:
-ipynb in ./ipynb/
+ipynb notebook in ./model_selection_and_finetune/full_finetuned_code.ipynb
 
 # Demo Program
 ## prerequisite
