@@ -1,7 +1,7 @@
 # BT5153_GP
 group project
 
-# Model selection and finetune:
+# Model Selection and Finetune:
 ipynb notebook in ./model_selection_and_finetune/full_finetuned_code.ipynb
 
 # Demo Program
