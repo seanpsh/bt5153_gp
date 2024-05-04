@@ -19,8 +19,8 @@ WANG ZIHAO (A0262730L)
 2. Build Environment:
    ```
    cd bt5153_gp
-   conda create -n AutoDAN python=3.11
-   conda activate AutoDAN
+   conda create -n PIIProtect python=3.11
+   conda activate PIIProtect 
    ```
 
 3. Install the required dependencies:
@@ -43,7 +43,7 @@ WANG ZIHAO (A0262730L)
 
 <div align="center">
    <figure>
-      <img src="detection.PNG" width="80%" height="80%">
+      <img src="detection.jpg" width="80%" height="80%">
    </figure>
 </div>
 
@@ -57,7 +57,7 @@ Note: We provide 4 anonymization functions:
 
 <div align="center">
    <figure>
-      <img src="dm.PNG" width="80%" height="80%">
+      <img src="dm.jpg" width="80%" height="80%">
    </figure>
 </div>
 
