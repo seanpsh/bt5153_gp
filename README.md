@@ -51,7 +51,7 @@ WANG ZIHAO (A0262730L)
 
 Note: We provide 4 anonymization functions: 
 - NA(na): Mask PII entities as their related PII tags.
-- Redact(re): Mask all PII entities as [REDACT]
+- Redact(re): Mask all PII entities as [REDACTED]
 - Encrypt(en): A reversible masking function, that encrypted PII entities as hash value. the decryption table is also generated for reversing PII entites from hash value to original text.
 - Obfuscation(ob): Use place holder 'x' to mask PII entities, i.e., person@gmail.com --> pxxxxx@gmail.com
 
