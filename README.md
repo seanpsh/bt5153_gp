@@ -1,4 +1,4 @@
-# bt5153_gp
+# BT5153_GP
 group project
 
 # Model selection and finetune:
