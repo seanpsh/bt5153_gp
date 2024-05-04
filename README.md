@@ -1,4 +1,4 @@
-# BT5153_GP
+# BT5153_GP - PII Detection and Anonymization
 group project
 
 # Model Selection and Finetune:
